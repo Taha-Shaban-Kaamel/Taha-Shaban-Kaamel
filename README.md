@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Taha-Shaban-kamel&theme=dracula" alt="Taha-Shaban-kamel" /></a> </p>
 
-- 🌱 I’m currently learning BackEnd **NodeJs**
+- 🌱 I’m currently learning BackEnd **Laravel**
 - 💬 Ask me about FrontEnd **HTML, CSS ,JS, React **
 - 📫 How to reach me **tahashaban743@gmail.com , 01023721592**
 - 👨‍💻 All of my projects are available at **https://taha-shaban-kamel.github.io/Portfolio/#home**
