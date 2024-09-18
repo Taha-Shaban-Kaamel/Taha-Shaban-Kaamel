@@ -138,16 +138,15 @@ Skills:
 ### :fire: My Stats :
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha_Shaban_Kaamel&layout=compact&theme=radical&card_width=200px" alt="Top Languages" />
-</p>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Shaban-kamel&layout=compact&theme=dark" alt=Taha-Shaban-kamel />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taha_Shaban_Kaamel&show_icons=true&theme=radical&card_width=250px" alt="Taha_Shaban_Kaamel's GitHub stats" />
-</p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Taha-Shaban-kamel&show_icons=true&locale=en&theme=dark" alt="Taha-Shaban-kamel" /></p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taha_Shaban_Kaamel&theme=radical&card_width=520px" alt="GitHub Streak" />
-  </a>
+<a href="https://github.com/Taha-Shaban-kamel">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taha-Shaban-kamel&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taha-Shaban-kamel&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taha-Shaban-kamel&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taha-Shaban-kamel&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taha-Shaban-kamel&theme=2077" height="180em" />
 </p>
 
