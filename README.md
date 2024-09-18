@@ -11,8 +11,7 @@ Enthusiastic and driven, I am an aspiring Full-stack Developer, Computer Science
 
 Achievements:
 <strong>ECPC 2023 (Egyptian Collegiate Programming Contest):</strong>
-Qualified for the <strong>ECPC</strong> (Egyptian Collegiate Programming Contest), securing a remarkable <strong>5th rank out of 230+</strong> teams during the qualification phase.
-
+Qualified for the <strong>ECPC</strong> (Egyptian Collegiate Programming Contest) .
 Skills:
 
 <strong> Programming Languages</strong>: JavaScript, Node.js, PHP, C++, SQL, HTML, CSS
